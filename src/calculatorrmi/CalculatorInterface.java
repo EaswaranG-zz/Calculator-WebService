@@ -6,7 +6,7 @@ import java.rmi.RemoteException;
 
 /**
  *
- * @author STUDENT
+ * @author Easwaran
  */
 public interface CalculatorInterface extends Remote {
     public int add(int x,int y) throws RemoteException;
