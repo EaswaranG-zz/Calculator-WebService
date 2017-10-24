@@ -11,7 +11,7 @@ import java.rmi.registry.Registry;
 
 /**
  *
- * @author STUDENT
+ * @author Easwaran
  */
 public class CalculatorServer {
     public static void main(String [] args) throws RemoteException{
