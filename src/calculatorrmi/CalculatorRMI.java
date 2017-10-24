@@ -6,7 +6,7 @@ import java.rmi.server.UnicastRemoteObject;
 
 /**
  *
- * @author STUDENT
+ * @author Easwaran
  */
 public class CalculatorRMI extends UnicastRemoteObject implements CalculatorInterface{
     public CalculatorRMI() throws RemoteException
