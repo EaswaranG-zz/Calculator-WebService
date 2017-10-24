@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author STUDENT
+ * @author Easwaran
  */
 public class CalculatorClient {
     public static void main(String [] args){
